@@ -1,3 +1,7 @@
+# Website Demo of Samosa Selector 
+
+<img src='./SamosaSelector.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
